@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Tutorial 
 
-Read tutorial [Url Params and Accessing Params Value](https://vjtechworld.com/2019/09/url-params-and-accessing-params-value.html) on [VJ Tech Diary](https://vjtechworld.com). 
+Read tutorial [Url Params and Accessing Params Value](https://vjtechworld.com/2019/09/url-params-and-accessing-params-value.html) on [VJ Tech World](https://vjtechworld.com). 
 
 ## Install Dependencies
 
